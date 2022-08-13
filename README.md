@@ -4,6 +4,5 @@ Ckeck out my video on this project: https://youtu.be/P933O19EG9c
 
 Toggl: https://toggl.com/
 Toggl API: https://github.com/toggl/toggl_api_docs/blob/master/reports.md
-
 Wiring LED's to Raspberry Pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring
 Programming LED's for Raspberry pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage
