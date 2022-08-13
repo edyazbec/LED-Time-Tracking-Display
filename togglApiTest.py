@@ -13,8 +13,7 @@ if __name__ == '__main__':
 	#make the api call
 	response=requests.get(url,auth=(api_key,'api_token'),params=params)
 	response.json=json.loads(response.text)
-	#create / update the projects
-	projects=[]
+	#save the json file
 	if(response.ok):
 		with open('togglData.json', 'w') as f:
 			json.dump(response.json, f)
