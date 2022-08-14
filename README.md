@@ -3,7 +3,7 @@ This is a project I worked on to display my weekly time tracking data in Toggl a
 Check out my video on this project: https://youtu.be/P933O19EG9c
 
 Toggl: https://toggl.com/
-Toggl API: https://github.com/toggl/toggl_api_docs/blob/master/reports.md
-Wiring LED's to Raspberry Pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring
-Programming LED's for Raspberry pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage
+Toggl API: https://github.com/toggl/toggl_api_docs/blob/master/reports.md \n
+Wiring LED's to Raspberry Pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring \n
+Programming LED's for Raspberry pi: https://learn.adafruit.com/neopixels-on-raspberry-pi/python-usage \n
 Hatch Panel: https://www.vexrobotics.com/217-6562.html
