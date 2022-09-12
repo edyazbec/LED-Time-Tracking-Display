@@ -70,8 +70,9 @@ def updateProjects():
 
 def updateProjectPixels(projects):
 	if(projects==[]):
-		print('something went very wrong')
-		pixels.fill(255,0,0)
+		print('something went very wrong. Check internet connecton or time zone settings')
+		for i in range(projectPixels):
+                        leds[i]=(255,0,0)
 	else:
 		j=0;
 		for i in range(len(projects)):
